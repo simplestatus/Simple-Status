@@ -190,8 +190,8 @@ h3.sectionTitle {
     font-size: 74px;
 }
 #featureWrap .icon {
-	background-color: #428BCA;
-    border: 4px solid #428BCA;
+	background-color: #ff1f13;
+    border: 4px solid #ff1f13;
     border-radius: 50%;
     color: #FFFFFF;
     display: block;
@@ -204,7 +204,7 @@ h3.sectionTitle {
     width: 148px;
 }
 #featureWrap .icon:hover {
-    color: #428BCA;
+    color: #ff1f13;
 	background-color: #fff;
     cursor: default;
 }
@@ -338,7 +338,7 @@ h3.sectionTitle {
 	margin-bottom: 15px;
 }
 #testimonialsWrap .author {
-	color: #428BCA;
+	color: #ff1f13;
 	font-size: 20px;
 }
 
